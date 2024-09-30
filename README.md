@@ -1,0 +1,1 @@
+so now i made simple for all you just need to enter url or domain of target and it automatic find all the param from active and passive crawling and sort according to vulnerability and save that in output folder and then you can use in our tool or manuly hunting also ❤️
